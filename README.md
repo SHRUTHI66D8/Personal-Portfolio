@@ -1,2 +1,2 @@
 This personal portfolio website is designed to highlight a web developer's skills, projects, and experience in a clear and visually appealing way. It showcases the developer's technical proficiency while also being user-friendly and easy to navigate. The layout is mobile-responsive, making it suitable for all screen sizes. By adding sections for personal background, technical skills, and sample projects, this website serves as a great online resume.
- Gained hands-on experience with #Prodigy InfoTech#internship
+ Gained hands-on experience with #ProdigyInfoTech#internship
